@@ -14,9 +14,7 @@ export default function Featured() {
           Каждый объект — это точный расчёт, надёжные материалы и команда профессионалов.
           Мы берём на себя полный цикл: от проекта до финальной отделки.
         </p>
-        <button className="bg-black text-white border border-black px-4 py-2 text-sm transition-all duration-300 hover:bg-white hover:text-black cursor-pointer w-fit uppercase tracking-wide">
-          Наши проекты
-        </button>
+
       </div>
     </div>
   );
